@@ -1,2 +1,2 @@
-# AVISHKA-MINI-BOT
-A simple whatsapp bot
+# ESCANOR BOT WEB
+Bot Para WhatsApp usando angularsockets
